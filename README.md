@@ -2,4 +2,4 @@
 
 * 🎓 Engineering Student @ Texas A&M University
 * 👉🏻 Pursuing Computer Engineering
-* 💻 Interested in data science and software engineering
+* 💻 Interested in data science, software engineering, and machine learning
